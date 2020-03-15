@@ -121,6 +121,10 @@
         {
             "name":"设置",          //菜单名称
             "function":"_menuA"      //菜单对应函数
+        },
+		{
+            "name":"重启服务进程",
+            "function":"_menuB"
         }
     ],
     "status":[      // 悬浮窗状态（见 com.example.status 样例）
