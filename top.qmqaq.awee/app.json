@@ -5,9 +5,9 @@
 {
     "ret":1,                   // 返回码，固定为1
     "apiver":9,                // Api版本，本SDK为9
-    "name":"[CTNET]符语报时",      // 应用名称
-    "version":"1.0.0",         // 应用版本
-    "version_id":13,            // 应用顺序版本（每次发布时至少+1）
+    "name":"[CTNET]贵阳报时",      // 应用名称
+    "version":"2.0.0",         // 应用版本
+    "version_id":15,            // 应用顺序版本（每次发布时至少+1）
     "author":"CatNetwork&fujao-time编辑部",        // 应用作者
     "description":"调用fujao-api接口进行报时 https://github.com/fujao-time",
     "event":[       // 事件列表，同一事件类型可重复定义（发布前请删除无用事件）
